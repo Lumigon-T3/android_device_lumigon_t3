@@ -19,7 +19,7 @@ Rear Camera | 13MP (Samsung s5k3m2mipiraw), Dual LED Flash, autofocus
 Front Camera | 5MP (OmniVision ov5670mipiraw), With LED Flash, autofocus
 Night Camera | 4MP (OmniVision ov4688mipiraw), Infrared LED Flash, autofocus
 
-![Lumigon T3](https://i.imgur.com/mkcVy9Rm.jpg "Lumigon T3 in Orange")
+![Lumigon T3](https://i.imgur.com/mkcVy9Rl.jpg "Lumigon T3 in Orange")
 
 This branch it's ONLY for building Android Nougat based ROMs
 
